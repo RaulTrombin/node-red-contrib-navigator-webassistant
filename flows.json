@@ -188,7 +188,7 @@
             }
         ],
         "meta": {
-            "module": "test-navigator",
+            "module": "node-red-contrib-navigator-webassistant",
             "type": "navigator-bluerobotics",
             "version": "0.0.0",
             "author": "raulvtrombin@gmail.com",
